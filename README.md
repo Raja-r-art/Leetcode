@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Raja-r-art/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raja-r-art/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Raja-r-art/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Raja-r-art/Leetcode/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Raja-r-art/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Raja-r-art/Leetcode/tree/master/0136-single-number) |
 ## Union-Find
 |  |
 | ------- |
