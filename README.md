@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Raja-r-art/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raja-r-art/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Raja-r-art/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Raja-r-art/Leetcode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Raja-r-art/Leetcode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-r-art/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Raja-r-art/Leetcode/tree/master/0053-maximum-subarray) |
 ## Greedy
 |  |
 | ------- |
