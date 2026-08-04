@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raja-r-art/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Raja-r-art/Leetcode/tree/master/0027-remove-element) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raja-r-art/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Raja-r-art/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
