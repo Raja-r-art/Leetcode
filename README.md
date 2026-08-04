@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raja-r-art/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Raja-r-art/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Raja-r-art/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Raja-r-art/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Raja-r-art/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Raja-r-art/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Raja-r-art/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Raja-r-art/Leetcode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Raja-r-art/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Raja-r-art/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Raja-r-art/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Raja-r-art/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
