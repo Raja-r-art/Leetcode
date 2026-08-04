@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Raja-r-art/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raja-r-art/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Raja-r-art/Leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Raja-r-art/Leetcode/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-r-art/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raja-r-art/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raja-r-art/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Raja-r-art/Leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Raja-r-art/Leetcode/tree/master/0056-merge-intervals) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Raja-r-art/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
