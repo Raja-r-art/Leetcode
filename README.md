@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Raja-r-art/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Raja-r-art/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Raja-r-art/Leetcode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Raja-r-art/Leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Raja-r-art/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Raja-r-art/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Raja-r-art/Leetcode/tree/master/0075-sort-colors) |
+| [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -173,4 +175,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Raja-r-art/Leetcode/tree/master/0141-linked-list-cycle) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
