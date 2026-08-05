@@ -1,46 +1,29 @@
-// SORTED USING THE MERGE SORT ALGORITHM
-
 
 class Solution {
 private:
-void f(vector<int>& nums,int i,int j){
-    if(i>=j) return;
-    int mid=(i+j)/2;
-    f(nums,i,mid);
-    f(nums,mid+1,j);
-    merge(nums,i,mid,j);
-
+int pivote(vector<int>&  nums,int low,int high){
+    int random = low + rand() % (high - low + 1);
+    swap(nums[low], nums[random]);
+    int i=low,j=high;
+    int p=nums[low];
+    while(i<j){
+       while(nums[i]<=p && i<high) i++; 
+       while(nums[j]>p && j>low) j--; 
+       if(i<j) swap(nums[i],nums[j]);
+    }
+    swap(nums[low],nums[j]);
+    return j;
 }
-void merge(vector<int>& nums,int i,int mid,int j){
-    int l=i;
-    int r=mid+1;
-    vector<int>temp;
-    while(l<=mid && r<=j){
-        if(nums[l]<=nums[r]){
-            temp.push_back(nums[l]);
-            l++;
-        }else{
-            temp.push_back(nums[r]);
-            r++;
-        }
-    }
-    while(l<=mid){
-          temp.push_back(nums[l]);
-            l++;
-    }
-    while(r<=j){
-            temp.push_back(nums[r]);
-            r++;
-    }
-    for(int a=i;a<=j;a++){
-        nums[a]=temp[a-i];
+void quick(vector<int>&  nums,int low,int high){
+    if(low<high){
+        int part=pivote(nums,low,high);
+        quick(nums,low,part-1);
+        quick(nums,part+1,high);
     }
 }
-
 public:
     vector<int> sortArray(vector<int>& nums) {
-        int n=nums.size();
-        f(nums,0,n-1);
-        return nums;
+       quick(nums,0,nums.size()-1);
+       return nums; 
     }
 };
