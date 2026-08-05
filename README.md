@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0229-majority-element-ii) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Raja-r-art/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Raja-r-art/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Raja-r-art/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Raja-r-art/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Raja-r-art/Leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -195,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Raja-r-art/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -217,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
