@@ -1,4 +1,4 @@
-
+//SOLVED USING BY THE QUICK SORT ALGORITHM
 class Solution {
 private:
 int pivote(vector<int>&  nums,int low,int high){
