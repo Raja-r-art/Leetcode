@@ -1,50 +1,37 @@
 class Solution {
 private:
-bool is(int r,int c,vector<string>& board,int n){
-    int dr=r;
-    int dc=c;
-    while(r>=0 && c>=0){
-        if(board[r][c]=='Q') return false;
-        r--;
-        c--;
-    }
-   c=dc;
-   r=dr;
-    while(c>=0){
-        if(board[r][c]=='Q') return false;
-        c--;
-    }
-      c=dc;
-   r=dr;
-    while(r<n && c>=0){
-        if(board[r][c]=='Q') return false;
-        r++;
-        c--;
-    }
-    return true;
-}
-void f(int c, vector<string>& board, vector<vector<string>>& ans,int n){
+void solve(int c, vector<string>board, vector<int>& left,  vector<int>& lower, vector<int>&upper,int n,vector<vector<string>>&  ans){
     if(c==n){
-        ans.push_back(board);
-        return;
+    ans.push_back(board);
+    return;
     }
     for(int r=0;r<n;r++){
-        if(is(r,c,board,n)){
-         board[r][c]='Q';
-         f(c+1,board,ans,n);
-         board[r][c]='.';
-        }
+        if(left[r] == 0 && lower[r+c] == 0 && upper[n-1+(c-r)] == 0){
+            board[r][c]='Q';
+            left[r]=1;
+            lower[r+c]=1;
+            upper[n-1+(c-r)]=1;
+            solve(c+1,board,left,lower,upper,n,ans);
+              board[r][c]='.';
+            left[r]=0;
+            lower[r+c]=0;
+            upper[n-1+(c-r)]=0;
+        } 
     }
 }
 public:
-    vector<vector<string>> solveNQueens(int n) {
-        vector<vector<string>> ans;
-        vector<string>board(n);
+    vector<vector<string>>solveNQueens(int n) {
+      vector<vector<string>>ans;
         string s(n,'.');
+        vector<string>board(n);
         for(int i=0;i<n;i++){
             board[i]=s;
         }
-        f(0,board,ans,n);
-        return ans;
+        vector<int>left(n);
+        vector<int>lower(2*n-1,0);
+        vector<int>upper(2*n-1,0);
+        solve(0,board,left,lower,upper,n,ans);
+   return ans;
+        
     }
 };
