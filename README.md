@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Raja-r-art/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Raja-r-art/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Raja-r-art/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Raja-r-art/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Raja-r-art/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Raja-r-art/Leetcode/tree/master/0046-permutations) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Raja-r-art/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Raja-r-art/Leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Raja-r-art/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Raja-r-art/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Raja-r-art/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Raja-r-art/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raja-r-art/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Raja-r-art/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Raja-r-art/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raja-r-art/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Raja-r-art/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Raja-r-art/Leetcode/tree/master/0046-permutations) |
@@ -255,5 +259,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Raja-r-art/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Raja-r-art/Leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Raja-r-art/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
