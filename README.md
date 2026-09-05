@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raja-r-art/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/Raja-r-art/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Raja-r-art/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
