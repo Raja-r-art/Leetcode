@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Raja-r-art/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Raja-r-art/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Raja-r-art/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Raja-r-art/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Raja-r-art/Leetcode/tree/master/0118-pascals-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raja-r-art/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Raja-r-art/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Raja-r-art/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Raja-r-art/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Raja-r-art/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Raja-r-art/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Raja-r-art/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Raja-r-art/Leetcode/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Simulation
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Raja-r-art/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Raja-r-art/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Raja-r-art/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Raja-r-art/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Raja-r-art/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -286,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Raja-r-art/Leetcode/tree/master/0060-permutation-sequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Raja-r-art/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
