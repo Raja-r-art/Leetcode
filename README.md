@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Raja-r-art/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Raja-r-art/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/Raja-r-art/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Matrix
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Raja-r-art/Leetcode/tree/master/0060-permutation-sequence) |
+| [0203-remove-linked-list-elements](https://github.com/Raja-r-art/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/Raja-r-art/Leetcode/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
