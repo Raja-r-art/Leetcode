@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Raja-r-art/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/Raja-r-art/Leetcode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Raja-r-art/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Raja-r-art/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Raja-r-art/Leetcode/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Raja-r-art/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Raja-r-art/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 ## Minimax
@@ -314,4 +316,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Raja-r-art/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Raja-r-art/Leetcode/tree/master/0509-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Raja-r-art/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Raja-r-art/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Raja-r-art/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
