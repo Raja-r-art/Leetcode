@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Raja-r-art/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/Raja-r-art/Leetcode/tree/master/1470-shuffle-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raja-r-art/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/Raja-r-art/Leetcode/tree/master/3904-smallest-stable-index-ii) |
