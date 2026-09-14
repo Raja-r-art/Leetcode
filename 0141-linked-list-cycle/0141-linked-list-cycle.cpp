@@ -6,17 +6,21 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ //BRUTE FORCE
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        if( head==NULL||head->next==NULL ) return false;
-        ListNode *slow=head;
-        ListNode *fast=head->next;
-        while(fast != NULL && fast->next !=NULL){
-          if(slow==fast) return true;
-            slow=slow->next;
-            fast=fast->next->next;
+        if( head==NULL || head->next==NULL) return false;
+        map<ListNode*,int>mp;
+        ListNode*temp=head;
+        while(temp!=NULL){
+            if(mp.find(temp)!= mp.end()){
+                return true;
+            }else{
+                mp[temp]++;
+            }
+            temp=temp->next;
         }
-            return false;
+        return false;
     }
 };
