@@ -9,34 +9,47 @@
  * };
  */
 class Solution {
+    ListNode* rev(ListNode* head){
+        ListNode* pre=NULL;
+        ListNode* cur=head;
+        ListNode* after=head->next;
+        while(after!=NULL){
+            cur->next=pre;
+            pre=cur;
+            cur=after;
+            after=after->next;
+        }
+        cur->next=pre;
+        return cur;
+    }
 public:
-    bool isPalindrome(ListNode* head1) {
-        stack<int>st;
-        ListNode* temp=head1;
-        if(head1==NULL || head1->next==NULL) return true;
-        while(temp!=NULL){
-            st.push(temp->val);
-            temp=temp->next;
+    bool isPalindrome(ListNode* head) {
+        if(head==NULL) return false;
+        if(head->next==NULL) return true;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        if(fast->next->next==NULL) {
+            if (slow->val!=fast->next->val) {
+             return false;
+        }else{
+             return true;
         }
-        ListNode* head2=new ListNode(st.top());
-        st.pop();
-        temp=head2;
-        while(st.size()){
-            ListNode* newnode= new ListNode(st.top());
-            st.pop();
-            temp->next=newnode;
-            temp=temp->next;
         }
-        ListNode *temp1=head1;
-        ListNode *temp2=head2;
-        while(temp1!=NULL && temp2 !=NULL){
-            if(temp1->val != temp2 ->val ) return false;
-           
+       
+        while(fast->next!=NULL && fast->next->next!=NULL ){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+         
+        ListNode* head2=rev(slow->next);
+        ListNode* temp1=head;
+        ListNode* temp2=head2;
+
+        while(temp1!=NULL && temp2!=NULL){
+            if(temp1->val != temp2->val) return false;
             temp1=temp1->next;
             temp2=temp2->next;
-
         }
         return true;
-        
     }
 };
