@@ -9,36 +9,24 @@
  * };
  */
 class Solution {
-ListNode* rev(ListNode* head){
-    ListNode* pre=NULL;
-    ListNode* cur=head;
-    ListNode* after=head->next;
-    while(after!=NULL){
-        cur->next=pre;
-        pre=cur;
-        cur=after;
-        after=after->next;
+
+    int f(ListNode* head){
+        if(head==NULL){
+            return 0;
+        }
+        int carry=f(head->next);
+        int sum=((head->val)*2)+carry;
+        head->val=sum%10;
+
+        return sum/10;
     }
-    cur->next=pre;
-    return cur;
-}
 public:
     ListNode* doubleIt(ListNode* head) {
-       ListNode* newhead=rev(head);
-        ListNode* temp=newhead;
-        int carry=0;
-        while(temp!=NULL){
-            int sum=((temp->val)*2)+carry;
-             carry=sum/10;
-            temp->val=sum%10;
-            temp=temp->next;
-        }
-        ListNode* head1=rev(newhead);
-        if(carry){
-            ListNode* newnode=new ListNode(carry);
-            newnode->next=head1;
-            head1=newnode;
-            return head1;
+        int n=f(head);
+        if(n){
+            ListNode* newnode=new ListNode(n);
+            newnode->next=head;
+            return newnode;
         }
         return head;
     }
