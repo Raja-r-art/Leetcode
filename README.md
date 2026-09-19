@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Raja-r-art/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Raja-r-art/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
+| [2652-sum-multiples](https://github.com/Raja-r-art/Leetcode/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raja-r-art/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
