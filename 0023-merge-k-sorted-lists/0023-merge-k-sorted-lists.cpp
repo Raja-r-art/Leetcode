@@ -9,28 +9,41 @@
  * };
  */
 class Solution {
+ListNode* merge(ListNode* temp1,ListNode* temp2){
+    ListNode* dummy=new ListNode(0);
+    ListNode* tail=dummy;
+         while(temp1!=NULL && temp2!=NULL){
+            if(temp1->val<temp2->val){
+                tail->next=temp1;
+                tail=temp1;
+                temp1=temp1->next;
+            }else{
+                tail->next=temp2;
+                tail=temp2;
+                temp2=temp2->next;
+            }
+            }
+            while(temp1!=NULL){
+                tail->next=temp1;
+                tail=tail->next;
+                temp1=temp1->next;
+            }
+            while(temp2!=NULL){
+                tail->next=temp2;
+                tail=temp2;
+                temp2=temp2->next;
+            }
+            return dummy->next;
+    }
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        //BRUTE FORCE 
-        vector<int>v;
+      
         int n=lists.size();
-        ListNode* dummy=new ListNode(0);
-        ListNode* tail=dummy;
-        for(int i=0;i<n;i++){
-            ListNode* head=lists[i];
-            while(head!=NULL){
-             v.push_back(head->val);
-             head=head->next;
-            }
+      if(n==0) return NULL;
+          ListNode* head=lists[0];
+        for(int i=1;i<n;i++){
+          head=merge(lists[i],head);
         }
-        sort(v.begin(),v.end());
-        ListNode* ans=new ListNode(0);
-        ListNode* temp=ans;
-        for(int i=0;i<v.size();i++){
-            ListNode* newnode=new ListNode(v[i]);
-            temp->next=newnode;
-            temp=newnode;
-        }
-        return ans->next;
+        return head;
     }
 };
