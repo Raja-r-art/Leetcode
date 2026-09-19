@@ -15,7 +15,7 @@ public:
         ListNode* temp2=l2;
         ListNode* dummy=new ListNode(0);
         ListNode* tail=dummy;
-        while(temp1!=NULL && temp2!=NULL){
+        while(temp1!=NULL &&  temp2!=NULL){
             if(temp1->val<temp2->val){
             tail->next=temp1;
             tail=tail->next;
