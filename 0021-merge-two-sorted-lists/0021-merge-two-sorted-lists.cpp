@@ -17,26 +17,22 @@ public:
         ListNode* tail=dummy;
         while(temp1!=NULL && temp2!=NULL){
             if(temp1->val<temp2->val){
-            ListNode* newnode=new ListNode(temp1->val);
-            tail->next=newnode;
+            tail->next=temp1;
             tail=tail->next;
             temp1=temp1->next;
             }else{
-            ListNode* newnode=new ListNode(temp2->val);
-            tail->next=newnode;
+            tail->next=temp2;
             tail=tail->next;
             temp2=temp2->next;
             }
         }
         while(temp1!=NULL){
-            ListNode* newnode=new ListNode(temp1->val);
-            tail->next=newnode;
+            tail->next=temp1;
             tail=tail->next;
             temp1=temp1->next;
         }
           while(temp2!=NULL){
-            ListNode* newnode=new ListNode(temp2->val);
-            tail->next=newnode;
+            tail->next=temp2;
             tail=tail->next;
             temp2=temp2->next;
         }
