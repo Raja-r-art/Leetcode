@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Raja-r-art/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Raja-r-art/Leetcode/tree/master/0205-isomorphic-strings) |
+| [3498-reverse-degree-of-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raja-r-art/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
