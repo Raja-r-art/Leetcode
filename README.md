@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Raja-r-art/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tournament Sort
@@ -403,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Raja-r-art/Leetcode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Raja-r-art/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Raja-r-art/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
