@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Raja-r-art/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Raja-r-art/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Raja-r-art/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0877-stone-game](https://github.com/Raja-r-art/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Raja-r-art/Leetcode/tree/master/0912-sort-an-array) |
 | [0980-unique-paths-iii](https://github.com/Raja-r-art/Leetcode/tree/master/0980-unique-paths-iii) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Raja-r-art/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Raja-r-art/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tournament Sort
 |  |
@@ -415,4 +417,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Raja-r-art/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
