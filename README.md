@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raja-r-art/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raja-r-art/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Raja-r-art/Leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raja-r-art/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Raja-r-art/Leetcode/tree/master/3731-find-missing-elements) |
 | [3904-smallest-stable-index-ii](https://github.com/Raja-r-art/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Raja-r-art/Leetcode/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/Raja-r-art/Leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Raja-r-art/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raja-r-art/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
