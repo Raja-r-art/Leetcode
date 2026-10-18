@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Raja-r-art/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Raja-r-art/Leetcode/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raja-r-art/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Raja-r-art/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1528-shuffle-string](https://github.com/Raja-r-art/Leetcode/tree/master/1528-shuffle-string) |
