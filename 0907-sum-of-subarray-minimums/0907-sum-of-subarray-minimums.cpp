@@ -60,7 +60,7 @@ public:
         for(int i=0;i<n;i++){
             long long l=i-pre[i];
             long long r=next[i]-i;
-             total=(total+(l * r %mod)*arr[i]%mod)%mod;
+             total=(total+((l*r)%mod)*arr[i]%mod)%mod;
         }
         return total;
     }
