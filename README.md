@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raja-r-art/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Raja-r-art/Leetcode/tree/master/1678-goal-parser-interpretation) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Raja-r-art/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Raja-r-art/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Raja-r-art/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raja-r-art/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
