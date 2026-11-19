@@ -8,7 +8,7 @@ public:
             for(int j=i+1;j<n;j++){
                l=max(nums[j],l);
                s=min(nums[j],s);
-               sum=sum+(l-s);
+               sum+=(l-s);
 
             }
         }
