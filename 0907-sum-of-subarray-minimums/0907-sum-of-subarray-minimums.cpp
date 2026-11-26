@@ -6,7 +6,7 @@ class Solution {
         if(st.empty()){
             next[i]=n;
             st.push(i);
-        }else if(!st.empty() && arr[i]<arr[st.top()]){
+        }else if(!st.empty() && arr[i]<=arr[st.top()]){
             while(!st.empty() && arr[i]<arr[st.top()]){
                 st.pop();
             }
